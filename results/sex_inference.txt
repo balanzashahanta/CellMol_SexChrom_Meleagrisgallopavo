@@ -1,0 +1,5 @@
+Median autosome depth: 4.634
+Z / A ratio: 0.631
+W / A ratio: 0
+Dosage interpretation: ZW-like
+Compare with BioSample sex and discuss limitations.
